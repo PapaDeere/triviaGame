@@ -1,0 +1,28 @@
+style.css
+body{  
+    font-family:Georgia, Arial, Helvetica, Sans-serif,serif;
+    font-size:15px;
+    color:#000;
+    background:#fff;
+}
+ 
+h1 {
+    font-size:50px;
+}
+ 
+h3 {
+    font-size:22px;
+}
+ 
+#content-wrapper {
+    width:960px;
+    text-align:left;
+    margin:0 auto;
+    background:#fff;
+    padding:15px;
+     
+}
+ 
+#header{
+	width:860px
+	height:120px;
